@@ -1,2 +1,2 @@
 ﻿# Banking_Case
-# Created to implement the knowledge of SQL, python and Power Bi to convey meaningful data insights and story to stakeholders
+### This project is an end to end data analysis solution designed to extract critical business insights from a bank's financial data. I utilized SQL for data processing and Python for data analysis, transformation and feature engineering to structure the data and utilized problem-solving techniques to extract useful information from the data. Then used the data to create a Power Bi dashboard to beautifully and creatively illustrate the data and communicate keys figures to senior management
